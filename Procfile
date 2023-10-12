@@ -1,1 +1,1 @@
-web: vite preview --port 8080
+web: vite build --watch --port 8080
