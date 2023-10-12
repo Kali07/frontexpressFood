@@ -1,1 +1,1 @@
-web: vite build --watch --port 8080
+web: npm run build && npm run dev
