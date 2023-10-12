@@ -29,10 +29,6 @@
     "react-router-dom": "^6.16.0",
     "sort-by": "^1.2.0"
   },
-  "engines": {
-    "node": "18.x",
-    "npm": "6.x"
-  },
   "devDependencies": {
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
